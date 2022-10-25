@@ -12,11 +12,11 @@ Download the above repo and run the following cells in the jupyter notebook
 
 without mask:-
 
-![Without Mask Detection](Detwithmask.png)
+![Without Mask Detection](Detwithoutmask.png)
 
 with mask:-
 
-![With Mask Detection](Detwithoutmask.png)
+![With Mask Detection](Detwithmask.png)
 
 with multiple people:-
 
